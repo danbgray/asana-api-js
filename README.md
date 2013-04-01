@@ -18,6 +18,6 @@ please feel free to extend it, or if you make a request - I can add new function
 
 *Currently the two functions are the only ones defined*
 
-    asana_api_get_projects:  Gets a list of the projects in a workspace.
-    asana_api_get_tasks_for_project:  Gets the full list of tasks for that workspace.
+* asana_api_get_projects:  Gets a list of the projects in a workspace.
+* asana_api_get_tasks_for_project:  Gets the full list of tasks for that workspace.
 
