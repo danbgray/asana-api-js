@@ -9,8 +9,8 @@ Usage
 
 If you are using meteor,
 
-    * Check this out to a new directory in 'lib/' (meteor loads this directory first)
-    * Update api.js to include your asana api token 
+* Check this out to a new directory in 'lib/' (meteor loads this directory first)
+* Update api.js to include your asana api token 
       (click on (your name), go to "Account Settings", and click "API Token")
 
 The 2 functions that are defined here are the only ones that I needed for my project,
@@ -18,6 +18,6 @@ please feel free to extend it, or if you make a request - I can add new function
 
 *Currently the two functions are the only ones defined*
 
-asana_api_get_projects:  Gets a list of the projects in a workspace.
-asana_api_get_tasks_for_project:  Gets the full list of tasks for that workspace.
+    asana_api_get_projects:  Gets a list of the projects in a workspace.
+    asana_api_get_tasks_for_project:  Gets the full list of tasks for that workspace.
 
